@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carrefour\\Desktop\\AppliMatrice\\AppliMatrice\\AppliMatrice.csproj": {}
+    "C:\\Users\\200537.asty-moulin\\Desktop\\AppliMat\\AppliMat\\AppliMatrice\\AppliMatrice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carrefour\\Desktop\\AppliMatrice\\AppliMatrice\\AppliMatrice.csproj": {
+    "C:\\Users\\200537.asty-moulin\\Desktop\\AppliMat\\AppliMat\\AppliMatrice\\AppliMatrice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carrefour\\Desktop\\AppliMatrice\\AppliMatrice\\AppliMatrice.csproj",
+        "projectUniqueName": "C:\\Users\\200537.asty-moulin\\Desktop\\AppliMat\\AppliMat\\AppliMatrice\\AppliMatrice.csproj",
         "projectName": "AppliMatrice",
-        "projectPath": "C:\\Users\\Carrefour\\Desktop\\AppliMatrice\\AppliMatrice\\AppliMatrice.csproj",
-        "packagesPath": "C:\\Users\\Carrefour\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carrefour\\Desktop\\AppliMatrice\\AppliMatrice\\obj\\",
+        "projectPath": "C:\\Users\\200537.asty-moulin\\Desktop\\AppliMat\\AppliMat\\AppliMatrice\\AppliMatrice.csproj",
+        "packagesPath": "C:\\Users\\200537.asty-moulin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\200537.asty-moulin\\Desktop\\AppliMat\\AppliMat\\AppliMatrice\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Carrefour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\200537.asty-moulin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,8 +48,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
         }
       }
     }

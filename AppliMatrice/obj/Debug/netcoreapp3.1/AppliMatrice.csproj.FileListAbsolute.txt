@@ -1,0 +1,14 @@
+C:\Users\200537.asty-moulin\Desktop\AppliMat\AppliMat\AppliMatrice\obj\Debug\netcoreapp3.1\AppliMatrice.csproj.AssemblyReference.cache
+C:\Users\200537.asty-moulin\Desktop\AppliMat\AppliMat\AppliMatrice\obj\Debug\netcoreapp3.1\AppliMatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\200537.asty-moulin\Desktop\AppliMat\AppliMat\AppliMatrice\obj\Debug\netcoreapp3.1\AppliMatrice.AssemblyInfoInputs.cache
+C:\Users\200537.asty-moulin\Desktop\AppliMat\AppliMat\AppliMatrice\obj\Debug\netcoreapp3.1\AppliMatrice.AssemblyInfo.cs
+C:\Users\200537.asty-moulin\Desktop\AppliMat\AppliMat\AppliMatrice\obj\Debug\netcoreapp3.1\AppliMatrice.csproj.CoreCompileInputs.cache
+C:\Users\200537.asty-moulin\Desktop\AppliMat\AppliMat\AppliMatrice\bin\Debug\netcoreapp3.1\AppliMatrice.exe
+C:\Users\200537.asty-moulin\Desktop\AppliMat\AppliMat\AppliMatrice\bin\Debug\netcoreapp3.1\AppliMatrice.deps.json
+C:\Users\200537.asty-moulin\Desktop\AppliMat\AppliMat\AppliMatrice\bin\Debug\netcoreapp3.1\AppliMatrice.runtimeconfig.json
+C:\Users\200537.asty-moulin\Desktop\AppliMat\AppliMat\AppliMatrice\bin\Debug\netcoreapp3.1\AppliMatrice.runtimeconfig.dev.json
+C:\Users\200537.asty-moulin\Desktop\AppliMat\AppliMat\AppliMatrice\bin\Debug\netcoreapp3.1\AppliMatrice.dll
+C:\Users\200537.asty-moulin\Desktop\AppliMat\AppliMat\AppliMatrice\bin\Debug\netcoreapp3.1\AppliMatrice.pdb
+C:\Users\200537.asty-moulin\Desktop\AppliMat\AppliMat\AppliMatrice\obj\Debug\netcoreapp3.1\AppliMatrice.dll
+C:\Users\200537.asty-moulin\Desktop\AppliMat\AppliMat\AppliMatrice\obj\Debug\netcoreapp3.1\AppliMatrice.pdb
+C:\Users\200537.asty-moulin\Desktop\AppliMat\AppliMat\AppliMatrice\obj\Debug\netcoreapp3.1\AppliMatrice.genruntimeconfig.cache
