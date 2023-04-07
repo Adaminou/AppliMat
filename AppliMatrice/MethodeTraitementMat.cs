@@ -7,6 +7,13 @@ namespace AppliMatrice
 {
     public struct MethodeTraitementMat
     {
+        /// <summary>
+        /// Génère une matrice contenant des valeurs 
+        /// Hypothèse : ligne,colonne entre 0 et 20
+        /// </summary>
+        /// <param name="tableau"></param>
+        /// <param name="ligne"></param>
+        /// <param name="colonne"></param>
         public void RempliTabMat(out int[,] tableau, int ligne, int colonne)
         {
             Random alea = new Random();
@@ -19,7 +26,11 @@ namespace AppliMatrice
                 }
             }
         }
-
+        /// <summary>
+        /// Création d'une chaine de caractère contenant les valeurs d'une matrice séparée par des virgules
+        /// </summary>
+        /// <param name="tableau"></param>
+        /// <param name="chaine"></param>
         public void ConcatTabMat(int[,] tableau, out string chaine)
         {
             chaine = "";
@@ -33,6 +44,13 @@ namespace AppliMatrice
             }
         }
 
+        /// <summary>
+        /// Additionne 2 matrices "tableau1,tableau2" générée par "RempliTabMat" et renvoi "tableau3" comme somme des deux et "resultat" pour savoir si l'addition est true ou false
+        /// </summary>
+        /// <param name="tableau1"></param>
+        /// <param name="tableau2"></param>
+        /// <param name="tableau3"></param>
+        /// <param name="resultat"></param>
         public void AddTabMat(int[,] tableau1, int[,] tableau2, out int[,] tableau3, out bool resultat)
         {
             tableau3 = new int[tableau1.GetLength(0), tableau2.GetLength(0)];
@@ -52,7 +70,13 @@ namespace AppliMatrice
                 resultat = false;
             }
         }
-
+        /// <summary>
+        /// Multiplie 2 matrices "tableau1,tableau2" générée par "RempliTabMat" et renvoi "tableauMulti" comme produit des deux et "resultat" pour savoir si l'addition est true ou false
+        /// </summary>
+        /// <param name="tableau1"></param>
+        /// <param name="tableau2"></param>
+        /// <param name="tableauMulti"></param>
+        /// <param name="resultat"></param>
         public void MultiTabMat(int[,] tableau1, int[,] tableau2, out int[,] tableauMulti, out bool resultat)
         {
             tableauMulti = new int [tableau1.GetLength(0), tableau2.GetLength(1)];
@@ -76,6 +100,11 @@ namespace AppliMatrice
                  resultat = false;
             }
         }
+        /// <summary>
+        /// vérification et empêche l'utilisateur d'entrer une valeur string.
+        /// </summary>
+        /// <param name="question">demande à adresser à l'utilisateur</param>
+        /// <param name="n">nombre entier récupéré</param>
         public void LireReel(string question, out int n)
         {
             string nUser;

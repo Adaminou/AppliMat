@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\200537.asty-moulin\\Desktop\\AppliMat\\AppliMat\\AppliMatrice\\AppliMatrice.csproj": {}
+    "C:\\Users\\200537.asty-moulin\\Desktop\\APPLIMAT\\AppliMat\\AppliMatrice\\AppliMatrice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\200537.asty-moulin\\Desktop\\AppliMat\\AppliMat\\AppliMatrice\\AppliMatrice.csproj": {
+    "C:\\Users\\200537.asty-moulin\\Desktop\\APPLIMAT\\AppliMat\\AppliMatrice\\AppliMatrice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\200537.asty-moulin\\Desktop\\AppliMat\\AppliMat\\AppliMatrice\\AppliMatrice.csproj",
+        "projectUniqueName": "C:\\Users\\200537.asty-moulin\\Desktop\\APPLIMAT\\AppliMat\\AppliMatrice\\AppliMatrice.csproj",
         "projectName": "AppliMatrice",
-        "projectPath": "C:\\Users\\200537.asty-moulin\\Desktop\\AppliMat\\AppliMat\\AppliMatrice\\AppliMatrice.csproj",
+        "projectPath": "C:\\Users\\200537.asty-moulin\\Desktop\\APPLIMAT\\AppliMat\\AppliMatrice\\AppliMatrice.csproj",
         "packagesPath": "C:\\Users\\200537.asty-moulin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\200537.asty-moulin\\Desktop\\AppliMat\\AppliMat\\AppliMatrice\\obj\\",
+        "outputPath": "C:\\Users\\200537.asty-moulin\\Desktop\\APPLIMAT\\AppliMat\\AppliMatrice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
